@@ -1,7 +1,7 @@
 # da_vinciho_kod
 Program na zašifrovanie/dešifrovanie textu a vypísanie výsledku do súboru
 
-Pre správne fungovanie programu treba stiahnuť .txt súbor!
+Pre správne fungovanie programu treba stiahnuť .txt súbory!
 
 PREČÍTAŤ!
 
